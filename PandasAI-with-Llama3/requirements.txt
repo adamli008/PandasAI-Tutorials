@@ -1,3 +1,6 @@
 pandas 
 pandasai
+numpy<2
+pyyaml
+pandasai[connectors]
 streamlit
